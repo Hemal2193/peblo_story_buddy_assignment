@@ -45,7 +45,7 @@ The demo showcases:
   * Happy robot
   * Confetti celebration
 * 🔄 Story can be replayed anytime without hiding the quiz, allowing children to listen again before answering
-* 🎨 Kid-friendly interface inspired by the provided Peblo wireframes
+* 🎨 Kid-friendly (3D Toy Like Button) interface inspired by the provided Peblo wireframes
 
 ---
 
@@ -150,15 +150,15 @@ Story narrated using Text-to-Speech
       ▼
 Quiz appears
       │
-      ├─────────────┐
-      ▼             │
-Wrong Answer        │
-      │             │
-Shake Animation     │
-Red Border          │
-Cross Icon          │
-      │             │
-Try Again ◄─────────┘
+      │
+      ▼             
+Wrong Answer        
+      │             
+Shake Animation     
+Red Border          
+Cross Icon          
+      │             
+Try Again 
       │
       ▼
 Correct Answer
