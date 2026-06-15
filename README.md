@@ -238,8 +238,6 @@ This prevents the interface from becoming stuck in a loading state.
 
 # 🚀 Performance Profiling & Optimization
 
-<img width="1872" height="239" alt="image" src="https://github.com/user-attachments/assets/599edf92-0f55-4e3a-9198-a680099b4663" />
-
 ### Performance Profiling
 
 The application was profiled using **Flutter DevTools** in **Profile mode**.
@@ -255,7 +253,7 @@ A brief frame-time spike was observed when starting Text-to-Speech narration and
 
 ### Performance Profile
 
-![Flutter DevTools Frame Timing](images/performance_profile.png)
+<img width="1872" height="239" alt="image" src="https://github.com/user-attachments/assets/599edf92-0f55-4e3a-9198-a680099b4663" />
 
 ### Optimizations Applied
 
