@@ -220,7 +220,6 @@ This would reduce network usage, improve startup time, and provide offline playb
 When the user presses **Read Me Story**:
 
 - The Read button becomes disabled.
-- A loading indicator is shown while narration starts.
 - The user cannot trigger multiple narration requests simultaneously.
 
 ### Failure Handling
